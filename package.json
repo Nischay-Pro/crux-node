@@ -1,0 +1,19 @@
+{
+  "name": "crux-node",
+  "version": "1.0.0",
+  "description": "Crux - BPHC website and forum",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRUx-BPHC/crux-node.git"
+  },
+  "author": "Rohitt Vashishtha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRUx-BPHC/crux-node/issues"
+  },
+  "homepage": "https://github.com/CRUx-BPHC/crux-node#readme"
+}
