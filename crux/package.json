@@ -13,6 +13,7 @@
     "jade": "~1.11.0",
     "mongoose": "^4.5.3",
     "morgan": "~1.7.0",
+    "poet": "^2.0.1",
     "pug": "^2.0.0-beta3",
     "serve-favicon": "~2.3.0"
   }
