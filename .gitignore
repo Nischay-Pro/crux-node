@@ -1,6 +1,7 @@
 #bot configuration file
 /conf.js
 node_modules/*
+crux/node_modules/*
 # Logs
 logs
 *.log

@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CRUx-BPHC/crux-node/issues"
   },
-  "homepage": "https://github.com/CRUx-BPHC/crux-node#readme"
+  "homepage": "https://github.com/CRUx-BPHC/crux-node#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.3"
+  }
 }
